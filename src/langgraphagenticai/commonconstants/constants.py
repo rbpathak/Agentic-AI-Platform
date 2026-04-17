@@ -1,0 +1,7 @@
+GROQ="Groq"
+OPENAI="OpenAI"
+OLLAMA="Ollama"
+SELECTED_LLM="selected_llm"
+LLM_API_KEY="LLM_API_KEY"
+SELECTED_MODEL="selected_model"
+SELECTED_USECASE="selected_usecase"
