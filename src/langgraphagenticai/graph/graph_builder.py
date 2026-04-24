@@ -24,7 +24,7 @@ class GraphBuilder:
             self.chatbot_workflow()
             return self.graph_builder.compile()
         elif usecase=="News Content Writer":
-            print("Inside News Content Writer usecase")
+            print("get_graph_by_usecase():: Inside News Content Writer usecase")
             self.news_content_workflow()
             return self.graph_builder.compile()
         else:
