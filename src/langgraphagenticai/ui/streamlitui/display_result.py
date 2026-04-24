@@ -26,7 +26,7 @@ class DisplayResultStreamLit:
 
         # Build messages from history
         messages = history.messages
-        print("Hi Dhruv Here 2")
+        print("Hi Rohit Here 2")
 
         final_response = None  # To store only the last message from the assistant
 
